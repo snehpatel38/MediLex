@@ -20,7 +20,7 @@ Below is a screen recording demonstrating the **MediLex** chatbot in action.
 <summary>Click to expand demo video</summary>
 
 <p align="center">
-  <img src="demo.gif" alt="MediLex Chatbot Demo" width="900" height="600">
+  <img src="demo.mp4" alt="MediLex Chatbot Demo" width="900" height="600">
 </p>
 
 </details>
