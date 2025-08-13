@@ -4,7 +4,7 @@ A retrieval-augmented chatbot using LangChain, Groq LLM, and FAISS vector databa
 Provides context-aware answers to medical queries using uploaded PDF documents.
 
 ## Presentation site
-Check out here: [My Canva Portfolio](https://snehpatelaitask.my.canva.site/)
+Check out here: [My Canva Site](https://snehpatelaitask.my.canva.site/)
 
 ## Features
 
