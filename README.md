@@ -3,6 +3,8 @@
 A retrieval-augmented chatbot using LangChain, Groq LLM, and FAISS vector database.
 Provides context-aware answers to medical queries using uploaded PDF documents.
 
+[![Presentation canva site](https://via.placeholder.com/800x400.png?text=Click+to+View+My+Portfolio)](https://snehpatelaitask.my.canva.site/)
+
 ## Features
 
 - Connects a FAISS vector store with a Groq LLM for context-aware QA.
