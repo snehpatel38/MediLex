@@ -11,21 +11,18 @@ Provides context-aware answers to medical queries using uploaded PDF documents.
 - Customizable prompt template.
 - Source document references for each answer.
 
+  
 ## Project Demo
 
-> _Below is a screen recording demonstrating the MediLex chatbot in action._
+Below is a screen recording demonstrating the **MediLex** chatbot in action.
 
 <details>
 <summary>Click to expand demo video</summary>
 
-![Demo Video](demo/demo.gif)
+![MediLex Chatbot Demo](demo/demo.gif)
+
 
 </details>
-
-- The demo is a screen recording (`demo/demo.gif`) included in this repository.
-- ```html
-  <video src="demo/demo.gif" controls width="900"></video>
-  ```
 
 ## Setup
 
