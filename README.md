@@ -79,6 +79,3 @@ python connect_memory_with_llm.py
 - `demo/` — Place your demo GIF or MP4 here.
 
 ---
-
-**Note:**
-This project is for personal or educational use. No license is provided and no open source rights are claimed.
